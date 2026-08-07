@@ -50,16 +50,6 @@ I care about **performance, power consumption, reliability, and real-world deplo
 </p>
 
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amoylds&theme=onedark&no-frame=true&column=7" />
-</p>
-
----
-
 ## 📫 Contact Me
 
 <p align="center">
